@@ -1,0 +1,2 @@
+Case,Permeability Tensor,Max Pressure (Pa),Min Pressure (Pa),Average Pressure (Pa),Max Surface Displacement (m),Min Surface Displacement (m),Average Surface Displacement (m)
+dt0.5,1E-20 0 0   0 1E-20 0   0 0 0,1335587.1563765,-200643.39201873,763408.7777405088,0.0017776203985543,0.0009783477495389,0.0014593706732660323
